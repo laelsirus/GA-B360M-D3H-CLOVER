@@ -93,7 +93,7 @@
     debug=0x100  
     keepsyms=1
 - Additional patches are required for iMessage and Facetime activation
-- Depending on the case and wireless card installed, additional patches of the internal USB port might be required
+- Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
 
 
 ## Issues
