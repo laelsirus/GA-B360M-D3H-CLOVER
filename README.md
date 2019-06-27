@@ -77,6 +77,15 @@
 - USBPorts.kext    -    Hackintool generated
 - VoodooPS2Controller.kext
 
+
+## ETC
+
+***Remove these boot flags after installation***
+- -v
+- debug=0x100
+- keepsyms=1
+
+
 ## Issues
 none
 
