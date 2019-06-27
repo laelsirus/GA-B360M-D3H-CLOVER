@@ -80,6 +80,9 @@
 
 ## ETC
 
+***Works in headless mode***
+- The output port of all internal graphics is the dummy port
+
 ***Remove these boot flags after installation***
 - -v
 - debug=0x100
