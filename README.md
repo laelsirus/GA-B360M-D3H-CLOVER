@@ -1,4 +1,4 @@
-# CLOVER Files for GA-B360M D3H with UHD630 iGPU AMD dGPU to boot macOS
+# GA-B360M D3H with UHD630 iGPU AMD dGPU CLOVER
 
 ## Specifics
 
