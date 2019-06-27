@@ -81,3 +81,17 @@
 none
 
 ## Screenshots
+
+<img width="698" alt="01SystemOverview" src="https://user-images.githubusercontent.com/46496967/60285248-7a4be500-9948-11e9-8350-fa65157d6df7.png">
+
+<img width="698" alt="02SystemDisplay" src="https://user-images.githubusercontent.com/46496967/60285249-7a4be500-9948-11e9-846b-0245575f76f0.png">
+
+![03VideoProc](https://user-images.githubusercontent.com/46496967/60285046-07db0500-9948-11e9-801d-6a4c3945f7c3.png)
+
+![04IntelPowerGadget](https://user-images.githubusercontent.com/46496967/60285045-07426e80-9948-11e9-95c7-a6016496a4ac.png)
+
+![05GeekbenchCPU](https://user-images.githubusercontent.com/46496967/60285043-07426e80-9948-11e9-9290-996b3ee34ca8.png)
+
+![06GeekbenchGPU](https://user-images.githubusercontent.com/46496967/60285041-06a9d800-9948-11e9-88de-be243d6b2dee.png)
+
+![07USBPorts](https://user-images.githubusercontent.com/46496967/60285044-07426e80-9948-11e9-9512-bafd9b18e6ea.png)
