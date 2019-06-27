@@ -84,8 +84,8 @@
 - The output ports of all iGPU are the dummy port
 
 ***Intel UHD Graphics 630 with AMD external graphics***
-- This build is suitable for the GA-B360M-D3H system which uses the iGPU of 'Intel UHD Graphics 630' and AMD dGPU
-- If your internal graphics is not 'Intel UHD Graphics 630' or if there are no AMD external graphics, additional graphics patches might be required
+- This build is suitable for the GA-B360M-D3H system which uses iGPU of 'Intel UHD Graphics 630' and AMD dGPU  
+  If your internal graphics is not 'Intel UHD Graphics 630' or if there are no AMD external graphics, additional graphics patches might be required
 
 ***After installation***
 - Remove these boot flags  
