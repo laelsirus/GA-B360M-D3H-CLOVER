@@ -3,22 +3,22 @@
 ## Specifics
 
 - CPU : Intel® Core™ i7-8700 Processor (12M Cache, up to 4.60 GHz)
-- MAINBOARD : GIGABYTE GA-B360M D3H DURABLE EDITION
-- GRAPHIC : Intel® UHD Graphics 630, SAPPAIRE RX 570 4GB
-- SOUND : REALTEK ALC892
-- MEMORY : ESSENCORE KLEVV DDR4 16G PC4-21300 CL16 2666MHZ (8GB * 2 DUAL CHANNEL)
-- M.2 NVME SSD : SAMSUNG PM961 256GB
-- 2.5 SATA SSD : SAMSUNG 960 EVO 250GB
-- WIRELESS : BCM943602CS
-- CASE : FRACTAL DESIGN DEFINE MINI C TEMPERED GLASS EDITION
-- POWER : FSP HYPER K 600W 80PLUS STANDARD 230V EU
-- COOLER : ZALMAN CNPS9X OPTIMA WHITE LED
-- EXTERNAL PORT & SLOT : USB 2.0 * 2, USB 3.2 Gen 1 * 4, USB 3.2 Gen 2 * 1, TYPE C * 1 (USB 3.2 Gen 1), PS2 PORT * 1 DISPLAYPORT * 1, HDMI * 1, DVI-D * 1, D-SUB * 1, INTEL GIGABIT LAN * 1, 8CH AUDIO PORT
-- DISPLAY : DELL P2417H
-- SPEAKER : DELL AC511
-- KEYBOARD : APPLE KEYBOARD WITH NUMERIC KEYPAD (A1243)
-- MOUSE : LOGITECH T630
-- WINDOWS 10 PRO
+- Mainboard : Gigabyte GA-B360M D3H Durable Edition
+- Graphics : Intel® UHD Graphics 630, SAPPAIRE RX 570 4GB
+- Sound : Realtek ALC892
+- Memory : Essencore KLEVV DDR4 16G PC4-21300 CL16 2666MHZ (8GB * 2 Dual Channel)
+- M.2 NVME SSD : Samsung PM961 256GB
+- 2.5 SATA SSD : Samsung 960 EVO 250GB
+- Wireless : BCM943602CS
+- Case : Fractal Design Defin Mini C Tempered Glass Edition
+- Power : FSP Hyper K 600W 80Plus Standard 230V EU
+- Cooler : Zalman CNPS9X Optima White LED
+- External Port & Slot : USB 2.0 * 2, USB 3.2 Gen 1 * 4, USB 3.2 Gen 2 * 1, Type C * 1 (USB 3.2 Gen 1), PS2 Port * 1 Displayport * 1, HDMI * 1, DVI-D * 1, D-SUB * 1, Intel Gigabit LAN * 1, 8CH Audio Port
+- Display : Dell P2417H
+- Speaker : Dell AC511
+- Keyboard : Apple Keyboard with Numeric Kkeypad (A1243)
+- Mouse : Logitech T630
+- Windows 10 Pro
 
 
 ## Bios/Clover Bootloader/macOS Version
