@@ -82,7 +82,7 @@ none
 
 ## Screenshots
 
-<img width="698" alt="01SystemOverview" src="https://user-images.githubusercontent.com/46496967/60285248-7a4be500-9948-11e9-8350-fa65157d6df7.png">
+<img width="698" alt="01SystemOverview" src="https://user-images.githubusercontent.com/46496967/60285360-bf701700-9948-11e9-916b-af54a5a76fa1.png">
 
 <img width="698" alt="02SystemDisplay" src="https://user-images.githubusercontent.com/46496967/60285249-7a4be500-9948-11e9-846b-0245575f76f0.png">
 
