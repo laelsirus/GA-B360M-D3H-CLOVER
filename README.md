@@ -87,10 +87,12 @@
 - This build is suitable for the GA-B360M-D3H system which uses the iGPU of 'Intel UHD Graphics 630' and AMD dGPU
 - If the internal graphics is not 'Intel UHD Graphics 630' or if there are no AMD external graphics, additional graphics patches might be required
 
-***Remove these boot flags after installation***
-- -v
-- debug=0x100
-- keepsyms=1
+***After installation***
+- Remove these boot flags  
+    -v  
+    debug=0x100  
+    keepsyms=1
+- Additional patches are required for iMessage and Facetime activation 
 
 
 ## Issues
