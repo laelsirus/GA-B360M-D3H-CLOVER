@@ -82,6 +82,8 @@
 
 ***Works in headless mode***
 - The output port of all internal graphics is the dummy port
+
+***Intel UHD Graphics 630 with AMD external graphics***
 - This build is suitable for systems that use the 'Intel UHD Graphics 630' internal graphics and AMD external graphics
 - If the internal graphics is not 'Intel UHD Graphics 630' or if there are no AMD external graphics, additional graphics patches might be required
 
