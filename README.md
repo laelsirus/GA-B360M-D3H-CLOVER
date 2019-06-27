@@ -82,7 +82,7 @@
 
 ***Works in headless mode***
 - The output port of all internal graphics is the dummy port
-If the internal graphics is not uhd 630 or if there are no external graphics, additional graphics patches might be required
+- If the internal graphics is not uhd 630 or if there are no external graphics, additional graphics patches might be required
 
 ***Remove these boot flags after installation***
 - -v
