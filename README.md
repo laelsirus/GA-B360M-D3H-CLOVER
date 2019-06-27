@@ -81,7 +81,7 @@
 ## ETC
 
 ***Works in headless mode***
-- The output port of all internal graphics is the dummy port
+- The output ports of all iGPU are the dummy port
 
 ***Intel UHD Graphics 630 with AMD external graphics***
 - This build is suitable for the GA-B360M-D3H system which uses the iGPU of 'Intel UHD Graphics 630' and AMD dGPU
