@@ -89,12 +89,12 @@
 - Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
 - Add a HiDPI patch based on your display resolution
 
-***Works in headless mode***
-- The output ports of all iGPU are the dummy port
-
-***Intel UHD Graphics 630 with AMD external graphics***
+***Intel UHD Graphics 630 iGPU with AMD dGPU***
 - This build is suitable for the GA-B360M-D3H system which uses iGPU of 'Intel UHD Graphics 630' and AMD dGPU  
   If your iGPU is not 'Intel UHD Graphics 630' or if there are no AMD dGPU, additional graphics patches might be required
+
+***Works in headless mode***
+- The output ports of all iGPU are the dummy port
 
 
 ## Issues
