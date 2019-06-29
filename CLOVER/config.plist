@@ -165,7 +165,7 @@
 			<key>Inject</key>
 			<integer>92</integer>
 			<key>ResetHDA</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>LANInjection</key>
 		<false/>
@@ -323,6 +323,11 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
+		<key>Hide</key>
+		<array>
+			<string>Preboot</string>
+			<string>Recovery</string>
+		</array>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
