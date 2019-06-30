@@ -81,6 +81,7 @@
 ## ETC
 
 ***After installation***
+- Turn off FileVault2  
 - Remove these boot flags  
     -v  
     debug=0x100  
@@ -98,7 +99,8 @@
 
 
 ## Issues
-none
+- FileVault2 not works
+
 
 ## Screenshots
 
