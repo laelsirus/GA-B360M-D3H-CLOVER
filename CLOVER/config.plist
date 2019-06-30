@@ -139,7 +139,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>macOS</string>
 		<key>NeverDoRecovery</key>
 		<false/>
 		<key>NeverHibernate</key>

@@ -55,8 +55,8 @@
 - AptioMemoryFix-64.efi
 - EmuVariableUefi.efi
 - FSInject-64.efi
-- HFSPlus.efi
 - SMCHelper-64.efi
+- VBoxHfs-64.efi
 
 
 ## Kexts
