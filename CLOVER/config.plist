@@ -147,7 +147,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>0</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -437,11 +437,11 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>05/28/2019</string>
+		<string>02/18/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM191.88Z.F000.B00.1905281819</string>
+		<string>IM191.88Z.F000.B00.1902181222</string>
 		<key>Board-ID</key>
 		<string>Mac-AA95B1DDAB278B95</string>
 		<key>BoardManufacturer</key>
@@ -457,11 +457,11 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.270.76.0.0</string>
+		<string>220.250.368.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF576</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
