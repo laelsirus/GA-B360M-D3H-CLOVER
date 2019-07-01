@@ -165,7 +165,7 @@
 			<key>Inject</key>
 			<integer>92</integer>
 			<key>ResetHDA</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>LANInjection</key>
 		<false/>
