@@ -87,8 +87,8 @@
     debug=0x100  
     keepsyms=1
 - Additional patches are required for iMessage and Facetime activation
-- Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
 - Add a HiDPI patch based on your display resolution
+- Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
 
 ***Intel UHD Graphics 630 iGPU with AMD dGPU***
 - This build is suitable for the GA-B360M-D3H system which uses iGPU of 'Intel UHD Graphics 630' and AMD dGPU  
