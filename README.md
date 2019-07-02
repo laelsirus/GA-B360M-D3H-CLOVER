@@ -99,6 +99,7 @@
 
 
 ## Issues
+- Ps2 port has not been tested yet
 - FileVault2 not works
 
 
