@@ -55,8 +55,8 @@
 - AptioMemoryFix-64.efi
 - EmuVariableUefi.efi
 - FSInject-64.efi
-- SMCHelper-64.efi
 - VBoxHfs-64.efi
+- VirtualSmc.efi
 
 
 ## Kexts
@@ -66,15 +66,14 @@
 - BrcmFirmwareRepo.kext
 - BrcmPatchRAM2.kext
 - EFICheckDisabler.kext
-- FakeSMC_ACPISensors.kext
-- FakeSMC_CPUSensors.kext
-- FakeSMC_GPUSensors.kext
-- FakeSMC_LPCSensors.kext
-- FakeSMC_SMMSensors.kext
-- FakeSMC.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
+- SMCBatteryManager.kext
+- SMCLightSensor.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
 - USBPorts.kext    -    Hackintool generated
+- VirtualSMC.kext
 - VoodooPS2Controller.kext
 
 
