@@ -10,7 +10,7 @@
 - M.2 NVME SSD : Samsung PM961 512GB
 - 2.5 SATA SSD : Samsung 960 EVO 250GB
 - Wireless : BCM943602CS
-- Case : Fractal Design Defin Mini C Tempered Glass Edition
+- Case : Fractal Design Define Mini C Tempered Glass Edition
 - Power : FSP Hyper K 600W 80Plus Standard 230V EU
 - Cooler : Zalman CNPS9X Optima White LED
 - External Port & Slot : USB 2.0 * 2, USB 3.2 Gen 1 * 4, USB 3.2 Gen 2 * 1, Type C * 1 (USB 3.2 Gen 1), PS2 Port * 1 Displayport * 1, HDMI * 1, DVI-D * 1, D-SUB * 1, Intel Gigabit LAN * 1, 8CH Audio Port
