@@ -7,7 +7,7 @@
 - Graphics : Intel® UHD Graphics 630, SAPPAIRE RX 570 4GB
 - Sound : Realtek ALC892
 - Memory : Essencore KLEVV DDR4 16G PC4-21300 CL16 2666MHZ (8GB * 2 Dual Channel)
-- M.2 NVME SSD : Samsung PM961 256GB
+- M.2 NVME SSD : Samsung PM961 512GB
 - 2.5 SATA SSD : Samsung 960 EVO 250GB
 - Wireless : BCM943602CS
 - Case : Fractal Design Defin Mini C Tempered Glass Edition
@@ -80,7 +80,7 @@
 ## ETC
 
 ***After installation***
-- Turn off FileVault2  
+- Turn off FileVault2 (necessary)  
 - Remove these boot flags  
     -v  
     debug=0x100  
