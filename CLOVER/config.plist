@@ -343,10 +343,7 @@
 			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
-		<dict>
-			<key>Linux</key>
-			<false/>
-		</dict>
+		<true/>
 		<key>Theme</key>
 		<string>Minimalism</string>
 	</dict>
