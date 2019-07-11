@@ -8,33 +8,6 @@
 		<true/>
 		<key>DSDT</key>
 		<dict>
-			<key>Debug</key>
-			<false/>
-			<key>DropOEM_DSM</key>
-			<false/>
-			<key>Fixes</key>
-			<dict>
-				<key>DeleteUnused</key>
-				<false/>
-				<key>FixDarwin7</key>
-				<false/>
-				<key>FixHDA</key>
-				<false/>
-				<key>FixHPET</key>
-				<false/>
-				<key>FixIPIC</key>
-				<false/>
-				<key>FixMutex</key>
-				<false/>
-				<key>FixRTC</key>
-				<false/>
-				<key>FixRegions</key>
-				<false/>
-				<key>FixShutdown</key>
-				<false/>
-				<key>FixTMR</key>
-				<false/>
-			</dict>
 			<key>Name</key>
 			<string>DSDT.aml</string>
 			<key>Patches</key>
@@ -96,67 +69,30 @@
 					</data>
 				</dict>
 			</array>
-			<key>ReuseFFFF</key>
-			<false/>
 		</dict>
-		<key>DisableASPM</key>
-		<false/>
 		<key>FixHeaders</key>
 		<true/>
-		<key>FixMCFG</key>
-		<false/>
-		<key>HaltEnabler</key>
-		<false/>
 		<key>SSDT</key>
 		<dict>
-			<key>DropOem</key>
-			<false/>
 			<key>Generate</key>
 			<dict>
-				<key>APLF</key>
-				<false/>
-				<key>APSN</key>
-				<false/>
-				<key>CStates</key>
-				<false/>
-				<key>PStates</key>
-				<false/>
 				<key>PluginType</key>
 				<true/>
 			</dict>
-			<key>NoDynamicExtract</key>
-			<false/>
-			<key>NoOemTableId</key>
-			<false/>
 		</dict>
-		<key>smartUPS</key>
-		<false/>
 	</dict>
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>darkwake=0 -v debug=0x100 keepsyms=1</string>
-		<key>Debug</key>
-		<false/>
+		<string>darkwake=no -v debug=0x100 keepsyms=1</string>
 		<key>DefaultVolume</key>
 		<string>macOS</string>
-		<key>NeverDoRecovery</key>
-		<false/>
 		<key>NeverHibernate</key>
 		<true/>
-		<key>NoEarlyProgress</key>
-		<false/>
-		<key>Secure</key>
-		<false/>
 		<key>Timeout</key>
 		<integer>5</integer>
 		<key>XMPDetection</key>
-		<false/>
-	</dict>
-	<key>CPU</key>
-	<dict>
-		<key>UseARTFrequency</key>
-		<false/>
+		<string>Yes</string>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -169,8 +105,6 @@
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
-		<key>LANInjection</key>
-		<false/>
 		<key>Properties</key>
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
@@ -311,17 +245,9 @@
 		</dict>
 		<key>USB</key>
 		<dict>
-			<key>AddClockID</key>
-			<false/>
 			<key>FixOwnership</key>
 			<true/>
-			<key>HighCurrent</key>
-			<false/>
-			<key>Inject</key>
-			<false/>
 		</dict>
-		<key>UseIntelHDMI</key>
-		<false/>
 	</dict>
 	<key>GUI</key>
 	<dict>
@@ -334,14 +260,8 @@
 		</array>
 		<key>Mouse</key>
 		<dict>
-			<key>DoubleClick</key>
-			<integer>500</integer>
 			<key>Enabled</key>
 			<false/>
-			<key>Mirror</key>
-			<false/>
-			<key>Speed</key>
-			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
@@ -367,29 +287,9 @@
 			<key>NVidia</key>
 			<false/>
 		</dict>
-		<key>LoadVBios</key>
-		<false/>
-		<key>NvidiaSingle</key>
-		<false/>
-		<key>RadeonDeInit</key>
-		<false/>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
-		<key>AppleIntelCPUPM</key>
-		<false/>
-		<key>AppleRTC</key>
-		<true/>
-		<key>Debug</key>
-		<false/>
-		<key>DellSMBIOSPatch</key>
-		<false/>
-		<key>KernelCpu</key>
-		<false/>
-		<key>KernelLapic</key>
-		<true/>
-		<key>KernelPm</key>
-		<true/>
 		<key>KernelToPatch</key>
 		<array>
 			<dict>
@@ -423,8 +323,6 @@
 				</data>
 			</dict>
 		</array>
-		<key>KernelXCPM</key>
-		<false/>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
