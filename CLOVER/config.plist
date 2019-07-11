@@ -344,7 +344,10 @@
 			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
-		<true/>
+		<dict>
+			<key>Legacy</key>
+			<false/>
+		</dict>
 		<key>Theme</key>
 		<string>Minimalism</string>
 	</dict>
