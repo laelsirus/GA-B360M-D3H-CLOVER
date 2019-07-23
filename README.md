@@ -97,7 +97,7 @@
 
 
 ## Issues
-- PS2 port has not been tested yet
+- PS2 port not works
 
 - FileVault2 not works
 
