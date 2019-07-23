@@ -74,7 +74,6 @@
 - SMCSuperIO.kext
 - USBPorts.kext    -    Hackintool generated
 - VirtualSMC.kext
-- VoodooPS2Controller.kext
 
 
 ## ETC
