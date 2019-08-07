@@ -87,7 +87,7 @@
 - Additional patches are required for iMessage and Facetime activation
 - Add a HiDPI patch based on your display resolution
 - Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
-- It is recommended that you do a new acpi patch on your system
+- It is recommended that you do a new ACPI patch on your system
 
 ***Intel UHD Graphics 630 iGPU with AMD dGPU***
 - This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel UHD Graphics 630' and AMD dGPU  
