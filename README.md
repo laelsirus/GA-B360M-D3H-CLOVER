@@ -24,7 +24,7 @@
 ## Bios/Clover Bootloader/macOS Version
 
 - Bios : F12
-- Clover Bootloader : Above v2.4k r4920
+- Clover Bootloader : Above v2.5k
 - macOS : 10.14.x
 
 
