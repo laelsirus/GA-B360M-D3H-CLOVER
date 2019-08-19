@@ -1,4 +1,4 @@
-# GA-B360M D3H with UHD630 iGPU AMD dGPU CLOVER
+#Ï GA-B360M D3H with UHD630 iGPU AMD dGPU CLOVER
 
 ## Specifics
 
@@ -61,10 +61,7 @@
 
 ## Kexts
 
-- AirportBrcmFixup.kext
 - AppleALC.kext
-- BrcmFirmwareRepo.kext
-- BrcmPatchRAM2.kext
 - EFICheckDisabler.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
