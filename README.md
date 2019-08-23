@@ -62,6 +62,8 @@
 ## Kexts
 
 - AppleALC.kext
+- CPUFriend.kext
+- CPUFriendDataProvider.kext
 - EFICheckDisabler.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
