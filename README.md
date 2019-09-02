@@ -17,7 +17,7 @@
 - Display : Dell P2417H
 - Speaker : Dell AC511
 - Keyboard : Apple Keyboard with Numeric Keypad (A1243)
-- Mouse : Logitech T630
+- Mouse : Logitech MX Master 2, Logitech T630
 - Windows 10 Pro
 
 
