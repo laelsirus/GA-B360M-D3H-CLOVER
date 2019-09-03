@@ -62,7 +62,7 @@
 ## Kexts
 
 - AppleALC.kext
-- CPUFriend.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
+- CPUFriend.kext
 - CPUFriendDataProvider.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
 - EFICheckDisabler.kext
 - IntelMausiEthernet.kext
@@ -88,9 +88,13 @@
 - Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
 - It is recommended that you do a new ACPI patch on your system
 
-***Intel UHD Graphics 630 iGPU with AMD dGPU***
-- This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel UHD Graphics 630' and AMD dGPU  
-  If your iGPU is not 'Intel UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required
+***Intel® Core™ i7-8700 Processor***
+- CPUFriendDataProvider.kext has been modified to manage the operation of the 'Intel® Core™ i7-8700 Processor'  
+  If your CPU is not 'Intel® Core™ i7-8700 Processor', remove or regenerate the CPUFriendDataProvider.kext
+
+***Intel® UHD Graphics 630 iGPU with AMD dGPU***
+- This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel® UHD Graphics 630' and AMD dGPU  
+  If your iGPU is not 'Intel® UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required
 
 ***Works in headless mode***
 - The output ports of all iGPU are the dummy port
