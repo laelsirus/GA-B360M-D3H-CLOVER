@@ -62,8 +62,8 @@
 ## Kexts
 
 - AppleALC.kext
-- CPUFriend.kext
-- CPUFriendDataProvider.kext
+- CPUFriend.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
+- CPUFriendDataProvider.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
 - EFICheckDisabler.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
@@ -71,7 +71,7 @@
 - SMCLightSensor.kext
 - SMCProcessor.kext
 - SMCSuperIO.kext
-- USBPorts.kext    -    Hackintool generated
+- USBPorts.kext    -    Generated with Hackintool
 - VirtualSMC.kext
 
 
