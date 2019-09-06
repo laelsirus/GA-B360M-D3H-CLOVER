@@ -94,7 +94,8 @@
 
 ***Intel® UHD Graphics 630 iGPU with AMD dGPU***
 - This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel® UHD Graphics 630' and AMD dGPU  
-  If your iGPU is not 'Intel® UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required
+  If your iGPU is not 'Intel® UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required  
+  (First remove all 'Devices/Properties' from config.plist)
 
 ***Works in headless mode***
 - The output ports of all iGPU are the dummy port
