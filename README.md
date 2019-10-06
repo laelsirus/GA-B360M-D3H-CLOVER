@@ -25,7 +25,7 @@
 
 - Bios : F12
 - Clover Bootloader : Above v2.5k
-- macOS : 10.14.x
+- macOS : 10.14.X, 10.15.X
 
 
 ## Bios Setup
