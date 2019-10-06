@@ -73,6 +73,7 @@
 - SMCSuperIO.kext
 - USBPorts.kext    -    Generated with Hackintool
 - VirtualSMC.kext
+- WhateverGreen.kext
 
 
 ## ETC
