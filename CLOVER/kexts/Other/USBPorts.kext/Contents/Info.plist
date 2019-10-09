@@ -88,8 +88,6 @@
 					</dict>
 					<key>HS05</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -99,8 +97,6 @@
 					</dict>
 					<key>HS06</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -110,8 +106,6 @@
 					</dict>
 					<key>HS07</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
@@ -121,8 +115,6 @@
 					</dict>
 					<key>HS08</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
@@ -132,8 +124,6 @@
 					</dict>
 					<key>HS10</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -179,8 +169,6 @@
 					</dict>
 					<key>SS05</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -190,8 +178,6 @@
 					</dict>
 					<key>SS06</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
