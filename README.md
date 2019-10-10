@@ -61,6 +61,7 @@
 
 ## Kexts
 
+- AGPMInjector.kext    -    Generated with AGPMInjector by Pavo-IM
 - AppleALC.kext
 - CPUFriend.kext
 - CPUFriendDataProvider.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
