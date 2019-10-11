@@ -131,14 +131,10 @@
 				<data>
 				AwCSPg==
 				</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal</string>
 				<key>device-id</key>
 				<data>
 				kj4AAA==
 				</data>
-				<key>device_type</key>
-				<string>Display controller</string>
 				<key>framebuffer-con0-busid</key>
 				<data>
 				AAAAAA==
@@ -251,10 +247,6 @@
 				<data>
 				AAAAgA==
 				</data>
-				<key>hda-gfx</key>
-				<string>onboard-2</string>
-				<key>model</key>
-				<string>Intel UHD Graphics 630</string>
 			</dict>
 		</dict>
 		<key>USB</key>
