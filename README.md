@@ -36,6 +36,7 @@
 
 ## DSDT Patch
 
+- [sys] Add IMEI
 - [sys] Fix _WAK Arg0 v2
 - [sys] Fix Mutex with non-zero SyncLevel
 - [sys] Fix PNOT/PPNT
