@@ -75,8 +75,8 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
-AGPMInjector.kext, CPUFriend.kext, and CPUFriendDataProvider.kext are not mandatory kext.  
-But creating it for your system will help you manage power
+***AGPMInjector.kext, CPUFriend.kext, and CPUFriendDataProvider.kext are not mandatory kext.  
+But creating it for your system will help you manage power***
 
 
 ## ETC
