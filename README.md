@@ -75,6 +75,9 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
+AGPMInjector.kext, CPUFriend.kext, and CPUFriendDataProvider.kext are not mandatory kext.  
+But creating it for your system will help you manage power
+
 
 ## ETC
 
@@ -97,6 +100,7 @@
 - This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel® UHD Graphics 630' and AMD dGPU  
   If your iGPU is not 'Intel® UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required  
   (First remove all 'Devices/Properties' from config.plist)
+- 'AGPMInjector.kext' must be recreated for each type of AMD dGPU being used.
 
 ***Works in headless mode***
 - The output ports of all iGPU are the dummy port
