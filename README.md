@@ -105,6 +105,14 @@ But creating it for your system will help you manage power***
 ***Works in headless mode***
 - The output ports of all iGPU are the dummy port
 
+***Audio***
+ - Built-in Output = Green [Front Left, Front Right] (Share with Front Panel Audio)
+ - Built-in Line Output 1 = Black [Rear Left, Rear Right]
+ - Built-in Line Output 2 = Orange [Front Center, LFE]
+ - Built-in Line Output 3 = Gray [Side Left, Side Right]
+ - Built-in Input = Pink (Share with Front Panel Audio)
+ - Built-in Line Input = Blue
+
 
 ## Issues
 - PS2 port not works
