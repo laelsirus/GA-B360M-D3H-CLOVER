@@ -21,14 +21,14 @@
 - Windows 10 Pro
 
 
-## Bios/Clover Bootloader/macOS Version
+## BIOS/Clover Bootloader/macOS Version
 
-- Bios : F13
+- BIOS : F13
 - Clover Bootloader : Above v2.5k
 - macOS : 10.14.X, 10.15.X
 
 
-## Bios Setup
+## BIOS Setup
 
 - Load Optimized Defaults
 - [Internal Graphics] Enable
