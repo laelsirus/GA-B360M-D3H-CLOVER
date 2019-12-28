@@ -81,7 +81,7 @@ But creating it for your system will help you manage power***
 
 ## ETC
 
-***After installation***
+***After Installation***
 - Turn off FileVault2 (necessary)  
 - Remove these boot flags  
     -v  
