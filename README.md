@@ -53,7 +53,8 @@
 - ApfsDriverLoader-64.efi
 - AptioMemoryFix-64.efi
 - EmuVariableUefi.efi
-- FSInject-64.efi
+- FwRuntimeServices.efi
+- OcQuirks.efi
 - VBoxHfs-64.efi
 - VirtualSmc.efi
 
@@ -61,6 +62,7 @@
 ## Kexts
 
 - AGPMInjector.kext    -    Generated with AGPMInjector by Pavo-IM
+- AirportBrcmFixup.kext    -    For edit Country Code to #a via brcmfx-country Properties
 - AppleALC.kext
 - CPUFriend.kext
 - CPUFriendDataProvider.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
