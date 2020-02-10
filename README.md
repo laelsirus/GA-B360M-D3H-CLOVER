@@ -48,6 +48,12 @@
 - [sys] SMBUS Fix
 
 
+## SSDT
+
+- SSDT-EC.aml
+- SSDT-UIAC.aml
+
+
 ## Drivers64UEFI
 
 - ApfsDriverLoader-64.efi
