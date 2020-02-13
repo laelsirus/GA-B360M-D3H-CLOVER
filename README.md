@@ -50,8 +50,20 @@
 
 ## SSDT
 
-- SSDT-EC.aml
-- SSDT-UIAC.aml
+- SSDT-EC.aml [USB Power Control]
+- SSDT-UIAC.aml [USB Mapping]
+- SSDT-UPRW.aml [Prevent USB Issues on Sleep]
+
+
+## ACPI DSDT Patches
+
+- change GFX0 to IGPU [IGPU Fix]
+- change HDAS to HDEF [Audio Fix]
+- change HECI to IMEI
+- change MEI to IMEI
+- change ECDV to EC [USB Fix]
+- change UPRW to XPRW [Prevent USB Issues on Sleep]
+- change GPRW to YPRW [Prevent USB Issues on Sleep]
 
 
 ## Drivers64UEFI
@@ -68,7 +80,7 @@
 ## Kexts
 
 - AGPMInjector.kext    -    Generated with AGPMInjector by Pavo-IM
-- AirportBrcmFixup.kext    -    For edit Country Code to #a via brcmfx-country Properties
+- AirportBrcmFixup.kext    -    For edit Country Code to #a
 - AppleALC.kext
 - CPUFriend.kext
 - CPUFriendDataProvider.kext    -    Generated with one-key-cpufriend by stevezhengshiqi
@@ -85,6 +97,13 @@
 
 ***AGPMInjector.kext, CPUFriend.kext, and CPUFriendDataProvider.kext are not mandatory kext  
 But creating it for your system will help you manage power***
+
+
+## Boot Arguments
+
+- darkwake=10 [Prevent Sleep, Powernap Issue]
+- dart=0 [Sidecar Activation]
+- brcmfx-country=#a [Set Country Code for Universal]
 
 
 ## ETC
@@ -123,6 +142,7 @@ But creating it for your system will help you manage power***
 
 
 ## Issues
+
 - PS2 port not works
 
 - FileVault2 not works
