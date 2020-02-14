@@ -47,7 +47,7 @@
 - [sys] Shutdown Fix v2
 - [sys] SMBUS Fix
 
-***Modify DSDT on your system to prevent kernel panic***
+***It is recommended to extract and patch the DSDT from your device to prevent kernel panic***
 
 
 ## SSDT
