@@ -57,7 +57,7 @@
 - SSDT-UPRW.aml [Prevent wake from USB]
 
 
-## ACPI DSDT Patches
+## CLOVER ACPI Hotpatch
 
 - change GFX0 to IGPU [IGPU Fix]
 - change HDAS to HDEF [Audio Fix]
