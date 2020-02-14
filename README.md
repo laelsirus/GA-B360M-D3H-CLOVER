@@ -54,7 +54,7 @@
 
 - SSDT-EC.aml [USB Power Control]
 - SSDT-UIAC.aml [USB Mapping]
-- SSDT-UPRW.aml [Prevent wake from USB]
+- SSDT-UPRW.aml [Prevent wake from USB, Fix some USB issues]
 
 
 ## CLOVER ACPI Hotpatch
@@ -64,8 +64,8 @@
 - change HECI to IMEI
 - change MEI to IMEI
 - change ECDV to EC [USB Fix]
-- change UPRW to XPRW [Prevent wake from USB]
-- change GPRW to YPRW [Prevent wake from USB]
+- change UPRW to XPRW [Prevent wake from USB, Fix some USB issues]
+- change GPRW to YPRW [Prevent wake from USB, Fix some USB issues]
 
 
 ## Drivers64UEFI
