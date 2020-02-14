@@ -147,6 +147,8 @@ But creating it for your system will help you manage power***
 
 - PS2 port not works
 
+- F_USB2(HS14) is disabled to keep macOS USB port limited
+
 - FileVault2 not works
 
 
@@ -164,4 +166,4 @@ But creating it for your system will help you manage power***
 
 ![06GeekBenchGPU](https://user-images.githubusercontent.com/46496967/60286873-808f9080-994b-11e9-9543-2c24fbafdce2.png)
 
-![07USBPorts](https://user-images.githubusercontent.com/46496967/60286872-7ff6fa00-994b-11e9-8f46-c7815c39a556.png)
+![07USBPorts](https://user-images.githubusercontent.com/46496967/74525575-bc23ad00-4f64-11ea-9d93-f066e2715b6e.png)
