@@ -117,8 +117,8 @@ But creating it for your system will help you manage power***
     debug=0x100  
     keepsyms=1
 - Additional patches are required for iMessage and Facetime activation
-- Add a HiDPI patch based on your display resolution
 - Depending on the case and built-in wireless card installed, additional patches of the internal USB port might be required
+- Add a HiDPI patch based on your display resolution
 - It is recommended that you do a new ACPI patch on your system
 
 ***Intel® Core™ i7-8700 Processor***
