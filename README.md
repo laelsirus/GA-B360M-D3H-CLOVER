@@ -64,8 +64,8 @@
 - change HECI to IMEI
 - change MEI to IMEI
 - change ECDV to EC [USB Fix]
-- change UPRW to XPRW [Prevent wake from USB, Fix some USB issues]
-- change GPRW to YPRW [Prevent wake from USB, Fix some USB issues]
+- change UPRW to XPRW [Prevent wake from USB]
+- change GPRW to YPRW [Prevent wake from USB]
 
 
 ## Drivers64UEFI
