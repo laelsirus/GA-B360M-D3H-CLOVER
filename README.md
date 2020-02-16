@@ -71,7 +71,6 @@
 ## Drivers64UEFI
 
 - ApfsDriverLoader-64.efi
-- AptioMemoryFix-64.efi
 - EmuVariableUefi.efi
 - FwRuntimeServices.efi
 - OcQuirks.efi
