@@ -47,7 +47,9 @@
 - [sys] Shutdown Fix v2
 - [sys] SMBUS Fix
 
-***It is recommended to extract and patch the DSDT from your device to prevent kernel panic***
+***Need these MaciASL patch sources  
+_RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***  
+***Modify DSDT on your system to prevent kernel panic***
 
 
 ## SSDT
