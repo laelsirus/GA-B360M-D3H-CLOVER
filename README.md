@@ -54,9 +54,11 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 
 ## SSDT
 
-- SSDT-EC.aml [USB Power Control]
-- SSDT-UIAC.aml [USB Mapping]
+- SSDT-EC-USBX.aml [USB Power Control]
+- SSDT-PLUG.aml [PluginType=1]
+- SSDT-PMC.aml [NVRAM]
 - SSDT-UPRW.aml [Prevent wake from USB, Fix some USB issues]
+- SSDT-XOSI.aml [OS Check Fix]
 
 
 ## CLOVER ACPI Hotpatch
@@ -66,17 +68,18 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - change HECI to IMEI
 - change MEI to IMEI
 - change ECDV to EC [USB Fix]
+- change OSID to XSID [OS Check Fix]
+- change \_OSI to XOSI [OS Check Fix]
 - change UPRW to XPRW [Prevent wake from USB]
 - change GPRW to YPRW [Prevent wake from USB]
 
 
 ## Drivers64UEFI
 
-- ApfsDriverLoader-64.efi
-- EmuVariableUefi.efi
+- ApfsDriverLoader.efi
 - FwRuntimeServices.efi
 - OcQuirks.efi
-- VBoxHfs-64.efi
+- VBoxHfs.efi
 - VirtualSmc.efi
 
 
@@ -96,6 +99,7 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - SMCSuperIO.kext
 - USBPorts.kext    -    Generated with Hackintool
 - VirtualSMC.kext
+- VoodooPS2Controller.kext    -    Power Button to Sleep/Power Menu Display
 - WhateverGreen.kext
 
 ***AGPMInjector.kext, CPUFriend.kext, CPUFriendDataProvider.kext are not mandatory kext  
