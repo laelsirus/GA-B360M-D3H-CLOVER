@@ -73,6 +73,8 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - change UPRW to XPRW [Prevent wake from USB]
 - change GPRW to YPRW [Prevent wake from USB]
 
+***If you want to wake up the sleep with USB input devices, disable 'change GPRW to YPRW'***
+
 
 ## Drivers64UEFI
 
