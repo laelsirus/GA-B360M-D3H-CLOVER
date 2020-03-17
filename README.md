@@ -212,10 +212,9 @@ But creating it for your system will help you manage power***
 - CPUFriendDataProvider.kext has been modified to manage the operation of the 'Intel® Core™ i7-8700 Processor'  
   If your CPU is not 'Intel® Core™ i7-8700 Processor', remove or regenerate the CPUFriendDataProvider.kext
 
-***Intel® UHD Graphics 630 iGPU with AMD dGPU***
-- This build is compatible for the GA-B360M-D3H system which uses iGPU of 'Intel® UHD Graphics 630' and AMD dGPU  
-  If your iGPU is not 'Intel® UHD Graphics 630' or there is no AMD dGPU, additional graphics patches might be required  
-  (First remove all 'Devices/Properties' from config.plist)
+***Intel® UHD Graphics 630***  
+- If your iGPU is 'Intel® UHD Graphics 630' and there is no AMD dGPU, use config_igpu.plist  
+  DP and HDMI ports work normally, and DVI and VGA ports have black screen after booting
 - 'AGPMInjector.kext' must be recreated for each type of AMD dGPU being used.
 
 ***Works in headless mode***
