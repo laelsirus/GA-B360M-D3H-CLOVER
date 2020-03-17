@@ -127,7 +127,7 @@ But creating it for your system will help you manage power***
 				<data>DwAAAA==</data>
 			</dict>
 ```
-- Intel® UHD Graphics 630 [Headless]
+- Intel® UHD Graphics 630 [Headless with dGPU]
 ```
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -195,6 +195,136 @@ But creating it for your system will help you manage power***
 				<data>AAAAgA==</data>
 			</dict>
 ```
+- Intel® UHD Graphics 630 [iGPU without dGPU]
+```
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,GfxYTile</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				BwCbPg==
+				</data>
+				<key>device-id</key>
+				<data>
+				kj4AAA==
+				</data>
+				<key>framebuffer-con0-busid</key>
+				<data>
+				BQAAAA==
+				</data>
+				<key>framebuffer-con0-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con0-flags</key>
+				<data>
+				xwMAAA==
+				</data>
+				<key>framebuffer-con0-index</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con0-pipe</key>
+				<data>
+				EgAAAA==
+				</data>
+				<key>framebuffer-con0-type</key>
+				<data>
+				AAQAAA==
+				</data>
+				<key>framebuffer-con1-busid</key>
+				<data>
+				BgAAAA==
+				</data>
+				<key>framebuffer-con1-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con1-flags</key>
+				<data>
+				xwMAAA==
+				</data>
+				<key>framebuffer-con1-index</key>
+				<data>
+				AgAAAA==
+				</data>
+				<key>framebuffer-con1-pipe</key>
+				<data>
+				EgAAAA==
+				</data>
+				<key>framebuffer-con1-type</key>
+				<data>
+				AAgAAA==
+				</data>
+				<key>framebuffer-con2-busid</key>
+				<data>
+				BAAAAA==
+				</data>
+				<key>framebuffer-con2-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con2-flags</key>
+				<data>
+				xwMAAA==
+				</data>
+				<key>framebuffer-con2-index</key>
+				<data>
+				AwAAAA==
+				</data>
+				<key>framebuffer-con2-pipe</key>
+				<data>
+				EgAAAA==
+				</data>
+				<key>framebuffer-con2-type</key>
+				<data>
+				AAgAAA==
+				</data>
+				<key>framebuffer-con3-busid</key>
+				<data>
+				AAAAAA==
+				</data>
+				<key>framebuffer-con3-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con3-flags</key>
+				<data>
+				IAAAAA==
+				</data>
+				<key>framebuffer-con3-index</key>
+				<data>
+				/////w==
+				</data>
+				<key>framebuffer-con3-pipe</key>
+				<data>
+				AAAAAA==
+				</data>
+				<key>framebuffer-con3-type</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-fbmem</key>
+				<data>
+				AAAAAA==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				AACQAw==
+				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
+			</dict>
+```
 
 
 ## ETC
@@ -213,7 +343,7 @@ But creating it for your system will help you manage power***
   If your CPU is not 'Intel® Core™ i7-8700 Processor', remove or regenerate the CPUFriendDataProvider.kext
 
 ***Intel® UHD Graphics 630***  
-- If your iGPU is 'Intel® UHD Graphics 630' and there is no AMD dGPU, use config_igpu.plist  
+- If your iGPU is 'Intel® UHD Graphics 630' and there is no AMD dGPU, use 'config_igpu.plist'  
   DP and HDMI ports work normally, and DVI and VGA ports have black screen after booting
 - 'AGPMInjector.kext' must be recreated for each type of AMD dGPU being used.
 
