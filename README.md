@@ -23,8 +23,8 @@
 
 ## BIOS/Clover Bootloader/macOS Version
 
-- BIOS : F13
-- Clover Bootloader : Above v2.5k
+- BIOS : F14c
+- Clover Bootloader : Above v5.0
 - macOS : 10.14.X, 10.15.X
 
 
@@ -46,6 +46,7 @@
 - [sys] RTC Fix
 - [sys] Shutdown Fix v2
 - [sys] SMBUS Fix
+- Rename ```HECI``` to ```IMEI```
 
 ***Need these MaciASL patch sources  
 _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***  
