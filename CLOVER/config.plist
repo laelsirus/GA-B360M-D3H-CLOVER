@@ -154,13 +154,13 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>darkwake=10 dart=0 brcmfx-country=#a -v debug=0x100 keepsyms=1</string>
+		<string>darkwake=10 dart=0 brcmfx-country=#a</string>
 		<key>DefaultVolume</key>
 		<string>macOS</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>0</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -428,6 +428,8 @@
 		<string>Mac-AA95B1DDAB278B95</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -456,6 +458,10 @@
 		<string>0x00</string>
 		<key>ProductName</key>
 		<string>iMac19,1</string>
+		<key>SerialNumber</key>
+		<string></string>
+		<key>SmUUID</key>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
