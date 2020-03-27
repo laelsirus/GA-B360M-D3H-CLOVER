@@ -379,6 +379,3 @@ But creating it for your system will help you manage power***
 ![06GeekBenchGPU](https://user-images.githubusercontent.com/46496967/60286873-808f9080-994b-11e9-9543-2c24fbafdce2.png)
 
 ![07USBPorts](https://user-images.githubusercontent.com/46496967/74525575-bc23ad00-4f64-11ea-9d93-f066e2715b6e.png)
-
-Apple Boot Logo
-![AppleBootLogo](https://user-images.githubusercontent.com/46496967/77796931-8d483d00-70b3-11ea-8f34-a83fc24a8d2b.jpg)
