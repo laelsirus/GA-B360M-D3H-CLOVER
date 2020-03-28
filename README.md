@@ -361,8 +361,6 @@ But creating it for your system will help you manage power***
 
 - F_USB2(HS14) is disabled to keep macOS USB port limited
 
-- FileVault2 not works
-
 
 ## Screenshots
 
