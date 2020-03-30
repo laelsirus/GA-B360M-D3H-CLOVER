@@ -340,7 +340,7 @@ But creating it for your system will help you manage power***
 
 ***Intel® UHD Graphics 630***  
 - If your iGPU is 'Intel® UHD Graphics 630' and there is no AMD dGPU, use 'config_igpu.plist'  
-  DP and HDMI ports work normally, and DVI and VGA ports have black screen after booting
+  DP and HDMI ports work normally, but DVI and VGA ports have black screen after booting
 - 'AGPMInjector.kext' must be recreated for each type of AMD dGPU being used.
 
 ***Works in headless mode***
