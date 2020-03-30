@@ -1,4 +1,4 @@
-# GA-B360M D3H with UHD630 iGPU AMD dGPU CLOVER
+# GA-B360M D3H with UHD630 iGPU
 
 ## Specifics
 
