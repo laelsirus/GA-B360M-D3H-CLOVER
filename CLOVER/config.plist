@@ -154,7 +154,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>darkwake=10 dart=0 brcmfx-country=#a</string>
+		<string>-v debug=0x100 keepsyms=1 darkwake=10 dart=0 brcmfx-country=#a</string>
 		<key>DefaultVolume</key>
 		<string>macOS</string>
 		<key>NeverHibernate</key>
