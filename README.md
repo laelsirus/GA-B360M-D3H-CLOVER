@@ -49,6 +49,7 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - SSDT-EC-USBX.aml [USB Power Control]
 - SSDT-PLUG.aml [PluginType=1]
 - SSDT-PMC.aml [NVRAM]
+- SSDT-RMNE.aml [Null Ethernet]
 - SSDT-UPRW.aml [Prevent wake from USB, Fix some USB issues]
 - SSDT-XOSI.aml [OS Check Fix]
 
@@ -87,6 +88,7 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - EFICheckDisabler.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
+- NullEthernet.kext
 - SMCBatteryManager.kext
 - SMCLightSensor.kext
 - SMCProcessor.kext
@@ -353,6 +355,10 @@ But creating it for your system will help you manage power***
  - Built-in Line Output 3 = Gray [Side Left, Side Right]
  - Built-in Input = Pink (Share with Front Panel Audio)
  - Built-in Line Input = Blue
+
+***NullEthernet.kext & SSDT-RMNE.aml***
+ - Null Ethernet is a way to prevent a Mac address-based license for some software from being broken when a wireless card is absent or replaced (including iCloud)  
+ If you do not need to consider blocking software licenses by changing your Mac address, you can remove it
 
 
 ## Issues
