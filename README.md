@@ -116,13 +116,9 @@ But creating it for your system will help you manage power***
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>device-id</key>
-				<data>
-				cKEAAA==
-				</data>
+				<data>cKEAAA==</data>
 				<key>layout-id</key>
-				<data>
-				DwAAAA==
-				</data>
+				<data>DwAAAA==</data>
 			</dict>
 ```
 - Intel® UHD Graphics 630 [Headless with dGPU]
