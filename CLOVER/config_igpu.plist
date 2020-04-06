@@ -124,7 +124,7 @@
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>5</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
